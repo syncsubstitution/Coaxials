@@ -1,9 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.4)  5 DEC 2024 12:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.4)  5 DEC 2024 14:36
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
-**coaxial
-(./coaxials.tex
+**c:/TeX/Coaxials/coaxials.tex
+(c:/TeX/Coaxials/coaxials.tex
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-09-10>
 (c:/Users/bjarn/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/koma-script/scrartcl.cls
@@ -635,11 +636,11 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 26.
  (c:/Users/bjarn/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<Early_Coaxial.jpg, id=1, 1150.5384pt x 800.7516pt>
-File: Early_Coaxial.jpg Graphic file (type jpg)
-<use Early_Coaxial.jpg>
-Package pdftex.def Info: Early_Coaxial.jpg  used on input line 43.
-(pdftex.def)             Requested size: 227.62206pt x 158.41246pt.
+<Plot.jpg, id=1, 702.625pt x 526.96875pt>
+File: Plot.jpg Graphic file (type jpg)
+<use Plot.jpg>
+Package pdftex.def Info: Plot.jpg  used on input line 43.
+(pdftex.def)             Requested size: 227.62206pt x 170.71602pt.
 
 
 [1
@@ -651,32 +652,25 @@ LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 48
 File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
 
-[2 <./Early_Coaxial.jpg>] (./coaxials.aux)
+[2 <./Plot.jpg>] (./coaxials.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-09-10>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
-
-Package biblatex Warning: Please rerun LaTeX.
-
 Package logreq Info: Writing requests to 'coaxials.run.xml'.
 \openout1 = `coaxials.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
  15519 strings out of 475496
- 310226 string characters out of 5774555
- 1268543 words of memory out of 5000000
+ 310202 string characters out of 5774555
+ 1268671 words of memory out of 5000000
  37999 multiletter control sequences out of 15000+600000
  572312 words of font info for 75 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 108i,7n,107p,10898b,1745s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 108i,7n,107p,10919b,1736s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <c:/Users/bjarn/AppData/Roaming/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1095.600pk> <c:/Users/bjarn/AppData/Roaming/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/eccc1095.600pk> <c:/Users/bjarn/AppData/Roaming/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsx1440.600pk> <c:/Users/bjarn/AppData/Roaming/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecti0800.600pk> <c:/Users/bjarn/AppData/Roaming/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecti1095.600pk> <c:/Users/bjarn/AppData/Roaming/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1095.600pk> <c:/Users/bjarn/AppData/Roaming/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1440.600pk> <c:/Users/bjarn/AppData/Roaming/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsx2074.600pk>
-Output written on coaxials.pdf (2 pages, 127570 bytes).
+Output written on coaxials.pdf (2 pages, 101620 bytes).
 PDF statistics:
  254 PDF objects out of 1000 (max. 8388607)
  38 compressed objects within 1 object stream

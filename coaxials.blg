@@ -1,15 +1,15 @@
 [0] Config.pm:308> INFO - This is Biber 2.20
 [0] Config.pm:311> INFO - Logfile is 'coaxials.blg'
-[156] biber-MSWIN64:340> INFO - === 
-[202] Biber.pm:420> INFO - Reading 'coaxials.bcf'
-[361] Biber.pm:994> INFO - Found 3 citekeys in bib section 0
-[391] Biber.pm:4463> INFO - Processing section 0
-[407] Biber.pm:4654> INFO - Looking for bibtex file 'Sources.bib' for section 0
-[477] bibtex.pm:1713> INFO - LaTeX decoding ...
-[488] bibtex.pm:1519> INFO - Found BibTeX data source 'Sources.bib'
-[575] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[575] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[576] Biber.pm:4283> INFO - Sorting list 'nty/global//global/global/global' of type 'entry' with template 'nty' and locale 'en-US'
-[577] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
-[593] bbl.pm:676> INFO - Writing 'coaxials.bbl' with encoding 'UTF-8'
-[596] bbl.pm:779> INFO - Output to coaxials.bbl
+[168] biber-MSWIN64:340> INFO - === 
+[239] Biber.pm:420> INFO - Reading 'coaxials.bcf'
+[422] Biber.pm:994> INFO - Found 3 citekeys in bib section 0
+[445] Biber.pm:4463> INFO - Processing section 0
+[467] Biber.pm:4654> INFO - Looking for bibtex file 'Sources.bib' for section 0
+[545] bibtex.pm:1713> INFO - LaTeX decoding ...
+[577] bibtex.pm:1519> INFO - Found BibTeX data source 'Sources.bib'
+[693] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[693] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[693] Biber.pm:4283> INFO - Sorting list 'nty/global//global/global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[693] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
+[708] bbl.pm:676> INFO - Writing 'coaxials.bbl' with encoding 'UTF-8'
+[711] bbl.pm:779> INFO - Output to coaxials.bbl
