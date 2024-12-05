@@ -1,0 +1,112 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global/global}
+    \entry{dries-2003}{book}{}{}
+      \name{author}{2}{}{%
+        {{hash=f904a28ec9ceeb2b8b0b71ece43cd05e}{%
+           family={Dries},
+           familyi={D\bibinitperiod},
+           given={David\bibnamedelima J},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=ef315707562ed940087a06ea11e3e45b}{%
+           family={Watkinson},
+           familyi={W\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{04eb822d199c9dc2142262825e0c231d}
+      \strng{fullhash}{04eb822d199c9dc2142262825e0c231d}
+      \strng{fullhashraw}{04eb822d199c9dc2142262825e0c231d}
+      \strng{bibnamehash}{04eb822d199c9dc2142262825e0c231d}
+      \strng{authorbibnamehash}{04eb822d199c9dc2142262825e0c231d}
+      \strng{authornamehash}{04eb822d199c9dc2142262825e0c231d}
+      \strng{authorfullhash}{04eb822d199c9dc2142262825e0c231d}
+      \strng{authorfullhashraw}{04eb822d199c9dc2142262825e0c231d}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{12}
+      \field{title}{{The Art of the Helicopter}}
+      \field{year}{2003}
+      \verb{urlraw}
+      \verb https://openlibrary.org/books/OL7972432M/Art_of_the_Helicopter
+      \endverb
+      \verb{url}
+      \verb https://openlibrary.org/books/OL7972432M/Art_of_the_Helicopter
+      \endverb
+    \endentry
+    \entry{leishman-2000}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=63495d7158a33cf9cbb48380d7718654}{%
+           family={Leishman},
+           familyi={L\bibinitperiod},
+           given={J.\bibnamedelimi Gordon},
+           giveni={J\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \strng{namehash}{63495d7158a33cf9cbb48380d7718654}
+      \strng{fullhash}{63495d7158a33cf9cbb48380d7718654}
+      \strng{fullhashraw}{63495d7158a33cf9cbb48380d7718654}
+      \strng{bibnamehash}{63495d7158a33cf9cbb48380d7718654}
+      \strng{authorbibnamehash}{63495d7158a33cf9cbb48380d7718654}
+      \strng{authornamehash}{63495d7158a33cf9cbb48380d7718654}
+      \strng{authorfullhash}{63495d7158a33cf9cbb48380d7718654}
+      \strng{authorfullhashraw}{63495d7158a33cf9cbb48380d7718654}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{6}
+      \field{title}{{Principles of Helicopter Aerodynamics}}
+      \field{year}{2000}
+      \verb{urlraw}
+      \verb https://ci.nii.ac.jp/ncid/BA47851005
+      \endverb
+      \verb{url}
+      \verb https://ci.nii.ac.jp/ncid/BA47851005
+      \endverb
+    \endentry
+    \entry{Pescara-1930}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=88183b946cc5f0e8c96b2e66e1c74a7e}{%
+           family={Unknown},
+           familyi={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{88183b946cc5f0e8c96b2e66e1c74a7e}
+      \strng{fullhash}{88183b946cc5f0e8c96b2e66e1c74a7e}
+      \strng{fullhashraw}{88183b946cc5f0e8c96b2e66e1c74a7e}
+      \strng{bibnamehash}{88183b946cc5f0e8c96b2e66e1c74a7e}
+      \strng{authorbibnamehash}{88183b946cc5f0e8c96b2e66e1c74a7e}
+      \strng{authornamehash}{88183b946cc5f0e8c96b2e66e1c74a7e}
+      \strng{authorfullhash}{88183b946cc5f0e8c96b2e66e1c74a7e}
+      \strng{authorfullhashraw}{88183b946cc5f0e8c96b2e66e1c74a7e}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Bundesarchiv Bild 102-12592 on https://bundesarchiv.de}
+      \field{title}{Barcelona.- Hubschrauber “Pescara Typ 4S” von Raúl Pateras Pescara beim Senk\-recht-Start}
+      \field{year}{1930}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

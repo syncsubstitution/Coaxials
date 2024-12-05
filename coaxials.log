@@ -1,10 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.4)  5 DEC 2024 11:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.4)  5 DEC 2024 12:36
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/TeX/Coaxials/coaxials.tex
-(c:/TeX/Coaxials/coaxials.tex
+**coaxial
+(./coaxials.tex
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-09-10>
 (c:/Users/bjarn/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/koma-script/scrartcl.cls
@@ -551,29 +550,29 @@ Package csquotes Info: Redefining alias 'default' -> 'english'.
  (./coaxials.aux)
 \openout1 = `coaxials.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-Package scrbase Info: activating english \abstractname on input line 22.
-Package scrbase Info: activating english \partname on input line 22.
-Package scrbase Info: activating english \figurename on input line 22.
-Package scrbase Info: activating english \tablename on input line 22.
-Package scrbase Info: activating english \contentsname on input line 22.
-Package scrbase Info: activating english \listfigurename on input line 22.
-Package scrbase Info: activating english \listtablename on input line 22.
-Package scrbase Info: activating english \refname on input line 22.
-Package scrbase Info: activating english \indexname on input line 22.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+Package scrbase Info: activating english \abstractname on input line 23.
+Package scrbase Info: activating english \partname on input line 23.
+Package scrbase Info: activating english \figurename on input line 23.
+Package scrbase Info: activating english \tablename on input line 23.
+Package scrbase Info: activating english \contentsname on input line 23.
+Package scrbase Info: activating english \listfigurename on input line 23.
+Package scrbase Info: activating english \listtablename on input line 23.
+Package scrbase Info: activating english \refname on input line 23.
+Package scrbase Info: activating english \indexname on input line 23.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -620,49 +619,67 @@ Package biblatex Info: Automatic encoding selection.
 \openout3 = `coaxials.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'coaxials.bbl' not found.
-
-No file coaxials.bbl.
-Package biblatex Info: Reference section=0 on input line 22.
-Package biblatex Info: Reference segment=0 on input line 22.
-LaTeX Font Info:    Trying to load font information for T1+cmss on input line 25.
-(c:/Users/bjarn/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/t1cmss.fd
+Package biblatex Info: ... file 'coaxials.bbl' found.
+ (./coaxials.bbl)
+Package biblatex Info: Reference section=0 on input line 23.
+Package biblatex Info: Reference segment=0 on input line 23.
+LaTeX Font Info:    Trying to load font information for T1+cmss on input line 26.
+ (c:/Users/bjarn/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/t1cmss.fd
 File: t1cmss.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
-LaTeX Font Info:    Trying to load font information for U+msa on input line 25.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 26.
  (c:/Users/bjarn/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 25.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 26.
  (c:/Users/bjarn/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
+<Early_Coaxial.jpg, id=1, 1150.5384pt x 800.7516pt>
+File: Early_Coaxial.jpg Graphic file (type jpg)
+<use Early_Coaxial.jpg>
+Package pdftex.def Info: Early_Coaxial.jpg  used on input line 43.
+(pdftex.def)             Requested size: 227.62206pt x 158.41246pt.
+
 
 [1
 
 
-{c:/Users/bjarn/AppData/Roaming/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./coaxials.aux)
+{c:/Users/bjarn/AppData/Roaming/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 48.
+ (c:/Users/bjarn/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+)
+
+[2 <./Early_Coaxial.jpg>] (./coaxials.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-09-10>
  ***********
+
+
+LaTeX Warning: There were undefined references.
+
+
+Package biblatex Warning: Please rerun LaTeX.
+
 Package logreq Info: Writing requests to 'coaxials.run.xml'.
 \openout1 = `coaxials.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 15245 strings out of 475496
- 304141 string characters out of 5774555
- 1267022 words of memory out of 5000000
- 37732 multiletter control sequences out of 15000+600000
- 571322 words of font info for 73 fonts, out of 8000000 for 9000
+ 15519 strings out of 475496
+ 310226 string characters out of 5774555
+ 1268543 words of memory out of 5000000
+ 37999 multiletter control sequences out of 15000+600000
+ 572312 words of font info for 75 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 108i,7n,107p,10919b,1732s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <c:/Users/bjarn/AppData/Roaming/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsx1440.600pk> <c:/Users/bjarn/AppData/Roaming/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecti0800.600pk> <c:/Users/bjarn/AppData/Roaming/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecti1095.600pk> <c:/Users/bjarn/AppData/Roaming/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1095.600pk> <c:/Users/bjarn/AppData/Roaming/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1440.600pk> <c:/Users/bjarn/AppData/Roaming/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsx2074.600pk>
-Output written on coaxials.pdf (1 page, 45934 bytes).
+ 108i,7n,107p,10898b,1745s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <c:/Users/bjarn/AppData/Roaming/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1095.600pk> <c:/Users/bjarn/AppData/Roaming/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/eccc1095.600pk> <c:/Users/bjarn/AppData/Roaming/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsx1440.600pk> <c:/Users/bjarn/AppData/Roaming/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecti0800.600pk> <c:/Users/bjarn/AppData/Roaming/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecti1095.600pk> <c:/Users/bjarn/AppData/Roaming/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1095.600pk> <c:/Users/bjarn/AppData/Roaming/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1440.600pk> <c:/Users/bjarn/AppData/Roaming/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ecsx2074.600pk>
+Output written on coaxials.pdf (2 pages, 127570 bytes).
 PDF statistics:
- 168 PDF objects out of 1000 (max. 8388607)
- 28 compressed objects within 1 object stream
+ 254 PDF objects out of 1000 (max. 8388607)
+ 38 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
